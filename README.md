@@ -6,6 +6,8 @@ Skins con manos HD: https://www.gtainside.com/en/vicecity/mods/150406-update-han
 
 Autos de Xbox: https://www.mediafire.com/file/svsdzbojg7s378r/Xbox_Vehicles_ESRGAN_Upscale.rar/file
 
+Partcle de XBOX: https://www.mediafire.com/file/myeu0d2pmf9fyk9/%2528VC%2529ParticleXbox.rar/file
+
 VBDec: https://www.mixmods.com.br/2021/07/iii-vc-vbdec-sons-hd-do-ps2-para-pc/
 
 Mapeado de XBOX: https://gtaforums.com/topic/829512-ps2-and-xbox-map-for-pc/
